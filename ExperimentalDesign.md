@@ -274,6 +274,13 @@ industrial experimentation.
     Dunn (2010-2016) and also makes heavy use of the Box, Hunter and
     Hunter book; it provides various data sets, which are mostly from
     fractional factorial 2-level designs.
+-   Package `r pkg("adas.utils")` provides a functional, 
+    [Tidyverse](https://tidyverse.org) approach to design factorial 
+    plans, fractional factorial plans, and composite centered design, 
+    including analysys of aliases in generators. It is mainly based on 
+    procedures and approach illustrated by D.C. Montgomery in *Design 
+    and Analysis of Experiments* (Wiley).
+
 
 Apart from tools for planning and analysing factorial designs, R also
 offers support for response surface optimization for quantitative
